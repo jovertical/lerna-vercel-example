@@ -1,0 +1,11 @@
+{
+    "name": "@acme/shared",
+    "version": "0.0.0",
+    "files": [
+        "utils.js"
+    ],
+    "engineStrict": true,
+    "engines": {
+        "node": ">= 14.x"
+    }
+}
